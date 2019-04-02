@@ -1,0 +1,10 @@
+C:\Users\Dococole\Documents\Visual Studio 2015\Projects\Tugas 2\Tugas 2\bin\Debug\Tugas 2.exe.config
+C:\Users\Dococole\documents\visual studio 2015\Projects\Tugas 2\Tugas 2\obj\Debug\ButcampV2.csprojResolveAssemblyReference.cache
+C:\Users\Dococole\documents\visual studio 2015\Projects\Tugas 2\Tugas 2\bin\Debug\Tugas 2.exe
+C:\Users\Dococole\documents\visual studio 2015\Projects\Tugas 2\Tugas 2\bin\Debug\Tugas 2.pdb
+C:\Users\Dococole\documents\visual studio 2015\Projects\Tugas 2\Tugas 2\bin\Debug\EntityFramework.dll
+C:\Users\Dococole\documents\visual studio 2015\Projects\Tugas 2\Tugas 2\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Dococole\documents\visual studio 2015\Projects\Tugas 2\Tugas 2\bin\Debug\EntityFramework.xml
+C:\Users\Dococole\documents\visual studio 2015\Projects\Tugas 2\Tugas 2\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Dococole\documents\visual studio 2015\Projects\Tugas 2\Tugas 2\obj\Debug\Tugas 2.exe
+C:\Users\Dococole\documents\visual studio 2015\Projects\Tugas 2\Tugas 2\obj\Debug\Tugas 2.pdb
